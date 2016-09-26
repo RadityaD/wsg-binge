@@ -1,0 +1,17 @@
+body {
+  margin-top: 60px;
+}
+
+.btn {
+  white-space: normal;
+}
+
+#menu {
+  max-height: 700px;
+  overflow-y: auto;
+}
+
+#links {
+  max-height: 700px;
+  overflow-y: auto;
+}
